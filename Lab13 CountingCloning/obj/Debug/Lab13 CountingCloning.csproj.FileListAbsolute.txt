@@ -1,0 +1,6 @@
+c:\users\mo\documents\visual studio 2015\Projects\Lab13 CountingCloning\Lab13 CountingCloning\bin\Debug\Lab13 CountingCloning.exe.config
+c:\users\mo\documents\visual studio 2015\Projects\Lab13 CountingCloning\Lab13 CountingCloning\bin\Debug\Lab13 CountingCloning.exe
+c:\users\mo\documents\visual studio 2015\Projects\Lab13 CountingCloning\Lab13 CountingCloning\bin\Debug\Lab13 CountingCloning.pdb
+c:\users\mo\documents\visual studio 2015\Projects\Lab13 CountingCloning\Lab13 CountingCloning\obj\Debug\Lab13 CountingCloning.csprojResolveAssemblyReference.cache
+c:\users\mo\documents\visual studio 2015\Projects\Lab13 CountingCloning\Lab13 CountingCloning\obj\Debug\Lab13 CountingCloning.exe
+c:\users\mo\documents\visual studio 2015\Projects\Lab13 CountingCloning\Lab13 CountingCloning\obj\Debug\Lab13 CountingCloning.pdb
